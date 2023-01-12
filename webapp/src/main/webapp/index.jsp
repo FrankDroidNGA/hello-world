@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap">
     <title>Chukwuma's CV with HTML</title>
   </head>
   <style media="screen">
@@ -86,7 +86,7 @@
     <p><b>Volunteer</b>, Africa Minds International, Lagos <br>
         <ul>
           <li>Participated in the walk against rape and teenage pregnancy in Ajegunle</li>
-          <li>Taught Physics and Chenistry to students during holidays</li>
+          <li>Taught Physics and Chemistry to students during holidays</li>
         </ul>
         <hr>
         <!-- SKILLS -->
