@@ -2,12 +2,12 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
     <title>Chukwuma's CV with HTML</title>
   </head>
   <style media="screen">
   body{
-    font-family: montserrat;
+    font-family: "Sofia", sans-serif;
     background-color: orange;
   }
   .head{
